@@ -18,10 +18,9 @@ Currently working as an AI Software Engineer at **AiCentive GmbH**, building pro
 
 ## Featured projects
 
-- **[UniVeranstaltungen](https://github.com/Ziad-Abdalla/UniVeranstaltungen)** - Full-stack university events platform with 50+ REST API endpoints, Stripe payments, and role-based access control
-- - **RAG Pipeline @ AiCentive** *(private)* - Production document processing pipeline using LangChain, Neo4j knowledge graphs, and FAISS vector search with 87x speed improvement
-  - - **DocAI** - AI-powered document processing system using the Claude API with structured output validation and multi-format support
-   
+- **[RAG Knowledge Graph Pipeline](https://github.com/Ziad-Abdalla/rag-knowledge-graph-pipeline)** — Production RAG system at AiCentive GmbH: PDF → LLM extraction → Neo4j/NebulaGraph knowledge graph → hybrid search. 87x speed improvement, 32 issues fixed, multi-tenant architecture
+- **[KTS Web Architecture](https://github.com/Ziad-Abdalla/kts-web-architecture)** — React SPA with Firebase CMS, admin dashboard with skeleton editing, 3D interactive elements, and multi-layer caching (~95% cache hit rate)
+- **[UniVeranstaltungen](https://github.com/Ziad-Abdalla/UniVeranstaltungen)** — Full-stack university events platform with 50+ REST API endpoints, Stripe payments, and role-based access control
     - ## Get in touch
    
     - - Email: ziadaly862004@gmail.com
