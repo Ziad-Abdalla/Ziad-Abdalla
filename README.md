@@ -1,8 +1,6 @@
 # Hi, I'm Ziad Ahmed
 
-**AI/ML Engineer** | Final-year CS & Engineering student at the German University in Cairo | Based in Stuttgart, Germany
-
-Currently working as an AI Software Engineer at **AiCentive GmbH**, building production RAG pipelines that process documents into knowledge graphs using LangChain, Neo4j, and FAISS. Previously interned at Key Technical International (Qatar) building Firebase backends and CDN-integrated systems.
+**Applied AI Engineer** | B.Sc. Computer Science & Engineering DHBW Stuttgart | Based in Stuttgart, Germany
 
 ## What I work with
 
@@ -23,6 +21,6 @@ Currently working as an AI Software Engineer at **AiCentive GmbH**, building pro
 - **[UniVeranstaltungen](https://github.com/Ziad-Abdalla/UniVeranstaltungen)** — Full-stack university events platform with 50+ REST API endpoints, Stripe payments, and role-based access control
     - ## Get in touch
    
-    - - Email: ziadaly862004@gmail.com
-      - - LinkedIn: [Ziad Ahmed](https://www.linkedin.com/in/ziad-aly-718039307/)
-        - - Location: Stuttgart, Germany
+    - Email: ziadaly862004@gmail.com
+    - LinkedIn: [Ziad Ahmed](https://www.linkedin.com/in/ziad-aly-718039307/)
+    - Location: Stuttgart, Germany
